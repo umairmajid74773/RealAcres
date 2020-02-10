@@ -33,10 +33,10 @@ class _MyAppState extends State<MyApp> {
         body: SplashScreen(
           seconds: 3,
           navigateAfterSeconds: MapScreen(),
-          title: Text('RealAcres',
+          title: Text('Real Acres',
             style: TextStyle(
                 fontWeight: FontWeight.bold,
-                fontSize: 30.0,
+                fontSize: 40.0,
                 color: Colors.redAccent
             ),),
           backgroundColor: Colors.white,
